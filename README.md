@@ -1,1 +1,1 @@
-# flex-world-hello
+Test flex-world-hello with Ionic, Angular and Swipper
